@@ -1,0 +1,16 @@
+C:\Users\alexis.zapata\source\repos\API_TEST\API_TEST\bin\Debug\netcoreapp2.1\appsettings.Development.json
+C:\Users\alexis.zapata\source\repos\API_TEST\API_TEST\bin\Debug\netcoreapp2.1\appsettings.json
+C:\Users\alexis.zapata\source\repos\API_TEST\API_TEST\bin\Debug\netcoreapp2.1\Properties\launchSettings.json
+C:\Users\alexis.zapata\source\repos\API_TEST\API_TEST\bin\Debug\netcoreapp2.1\API_TEST.deps.json
+C:\Users\alexis.zapata\source\repos\API_TEST\API_TEST\bin\Debug\netcoreapp2.1\API_TEST.runtimeconfig.json
+C:\Users\alexis.zapata\source\repos\API_TEST\API_TEST\bin\Debug\netcoreapp2.1\API_TEST.runtimeconfig.dev.json
+C:\Users\alexis.zapata\source\repos\API_TEST\API_TEST\bin\Debug\netcoreapp2.1\API_TEST.dll
+C:\Users\alexis.zapata\source\repos\API_TEST\API_TEST\obj\Debug\netcoreapp2.1\API_TEST.csprojAssemblyReference.cache
+C:\Users\alexis.zapata\source\repos\API_TEST\API_TEST\obj\Debug\netcoreapp2.1\API_TEST.RazorAssemblyInfo.cache
+C:\Users\alexis.zapata\source\repos\API_TEST\API_TEST\obj\Debug\netcoreapp2.1\API_TEST.RazorAssemblyInfo.cs
+C:\Users\alexis.zapata\source\repos\API_TEST\API_TEST\obj\Debug\netcoreapp2.1\API_TEST.AssemblyInfoInputs.cache
+C:\Users\alexis.zapata\source\repos\API_TEST\API_TEST\obj\Debug\netcoreapp2.1\API_TEST.AssemblyInfo.cs
+C:\Users\alexis.zapata\source\repos\API_TEST\API_TEST\obj\Debug\netcoreapp2.1\API_TEST.RazorTargetAssemblyInfo.cache
+C:\Users\alexis.zapata\source\repos\API_TEST\API_TEST\bin\Debug\netcoreapp2.1\API_TEST.pdb
+C:\Users\alexis.zapata\source\repos\API_TEST\API_TEST\obj\Debug\netcoreapp2.1\API_TEST.dll
+C:\Users\alexis.zapata\source\repos\API_TEST\API_TEST\obj\Debug\netcoreapp2.1\API_TEST.pdb
