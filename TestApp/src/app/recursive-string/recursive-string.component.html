@@ -3,4 +3,10 @@
     <label>input data:
             <input type="text" [(ngModel)]="data">
     </label>
+    <div *ngIf="response">
+        <ul>
+            <li *ngFor="let item of response">{{item}}</li>
+        </ul>
+    </div>
+    <button (click)="getRecursiveString()">get data</button>
 </div>

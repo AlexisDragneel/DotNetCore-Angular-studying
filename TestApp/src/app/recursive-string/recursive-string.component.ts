@@ -1,4 +1,5 @@
 import { Component, OnInit } from '@angular/core';
+import { HttpServiceService } from './http-service.service'
 
 @Component({
   selector: 'app-recursive-string',
@@ -7,11 +8,18 @@ import { Component, OnInit } from '@angular/core';
 })
 export class RecursiveStringComponent implements OnInit {
 
-  constructor() { }
+  response = null
+  data = "Hello";
+  constructor( private httpService: HttpServiceService ) { }
 
   ngOnInit() {
   }
 
-  data = "Hello";
+  getRecursiveString(){
+    this.httpService
+    .getRecursiveSubStrign(this.data)
+    .subscribe(strings => this.response = strings);
+    console.log(this.response)
+  }
 
 }

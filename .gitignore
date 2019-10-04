@@ -1,1 +1,4 @@
 .vs/*
+API_TEST/bin/*
+API_TEST/obj/*
+API_TEST/Debug/*
